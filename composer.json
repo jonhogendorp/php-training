@@ -1,0 +1,22 @@
+{
+    "autoload": {
+
+        "classmap": [
+    
+            "./"
+    
+        ]
+    },
+
+    "name": "jonhogendorp/php-training",
+    "description": "PHP code along",
+    "authors": [
+        {
+            "name": "Jon Hogendorp",
+            "email": "jonhoog@live.nl"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
